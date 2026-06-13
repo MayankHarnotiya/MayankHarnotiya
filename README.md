@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                   Hi 👋, I'm Mayank Harnotiya
 🔭 Deepening my backend depth in Kafka internals and distributed-systems patterns, while building production-grade Spring Boot projects<br><br>👯 Open to collaborating on backend / distributed-systems projects in Java & Spring Boot — especially Kafka, event-driven design, or fintech<br><br>🤝 Looking to connect with backend teams hiring for SDE-1 / Backend Engineer roles<br><br>🌱 Currently learning Kubernetes, Spring AI internals, and deeper Kafka patterns (consumer groups, exactly-once semantics)<br><br>💬 Ask me about idempotency, optimistic locking, REST API design, Spring Security (JWT/RBAC), and treating LLM output safely in backend systems<br><br>⚡ Fun fact: a backend bug isn't a bug report — in fintech, it's a financial incident. That's the mindset I build with.
 
 
